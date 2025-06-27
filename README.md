@@ -12,7 +12,7 @@ Feel free to check my projects and reach out!
 ---
 
 ## Contact
-- GitHub: [Anas Sameh Gharib ](https://github.com/anas_sameh)
+- GitHub: [Anas Sameh Gharib ](https://github.com/anas-sameh)
 - Email: anas.sameh.169@gmial.com
 - phone number:+20 01158563447
 
